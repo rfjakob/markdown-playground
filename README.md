@@ -10,7 +10,7 @@ Key Encryption Key (KEK).
 
 The KEK is generated from the user password using `scrypt`.
 
-![](https://github.com/rfjakob/gocryptfs/blob/master/Documentation/master-key.svg)
+![](https://rawgit.com/rfjakob/gocryptfs/master/Documentation/master-key.svg)
 
 File Contents
 -------------
@@ -26,7 +26,7 @@ file ID and the block number are mixed into the GHASH as
 additional authenticated data. The prevents blocks from being copied
 between or within files.
 
-![](https://github.com/rfjakob/gocryptfs/blob/master/Documentation/file-content-encryption.svg)
+![](https://rawgit.com/rfjakob/gocryptfs/master/Documentation/file-content-encryption.svg)
 
 To support sparse files, all-zero blocks are accepted and passed through
 unchanged.
@@ -39,4 +39,4 @@ directory as `gocryptfs.diriv`.
 
 File names are encrypted using AES-256-CBC with the directory IV.
 
-![](https://github.com/rfjakob/gocryptfs/blob/master/Documentation/file-name-encryption.svg)
+![](https://rawgit.com/rfjakob/gocryptfs/master/Documentation/file-name-encryption.svg)
