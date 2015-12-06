@@ -5,11 +5,11 @@ References
 Shai Halevi, Phillip Rogaway, 28 Jul 2003  
 https://eprint.iacr.org/2003/147.pdf
 
-**[eme-32-announcement]** *Re: EME-32-AES with editorial comments*  
+**[eme-32-email]** *Re: EME-32-AES with editorial comments*  
 Shai Halevi, 07 Jun 2005  
 http://grouper.ieee.org/groups/1619/email/msg00310.html
 
-**[eme-32]** *Draft Standard for Tweakable Wide-block Encryption*  
+**[eme-32-pdf]** *Draft Standard for Tweakable Wide-block Encryption*  
 Shai Halevi, 02 June 2005  
 http://grouper.ieee.org/groups/1619/email/pdf00020.pdf
 
