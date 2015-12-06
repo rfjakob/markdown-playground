@@ -1,6 +1,7 @@
 References
 ----------
 
+The original EME paper.
 **[eme]** *A Parallelizable Enciphering Mode*  
 Shai Halevi, Phillip Rogaway, 28 Jul 2003  
 https://eprint.iacr.org/2003/147.pdf
@@ -25,3 +26,8 @@ http://grouper.ieee.org/groups/1619/email-2/msg00005.html
 **[patappl]** *Block cipher mode of operation for constructing a wide-blocksize block cipher from a conventional block cipher*  
 US patent application US20040131182  
 http://www.google.com/patents/US20040131182
+
+**[p1619.2]** *IEEE P1619.2™/D9 Draft Standard for Wide-Block
+Encryption for Shared Storage Media*  
+IEEE, Dec 2008
+http://siswg.net/index2.php?option=com_docman&task=doc_view&gid=156&Itemid=41
