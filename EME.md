@@ -3,6 +3,7 @@ References
 
 [1] *Re: [P1619-2] Non-awareness patent statement
 made by UC Davis*
+
 Mat Ball, 26 Nov 2007
 http://grouper.ieee.org/groups/1619/email-2/msg00005.html
 
