@@ -1,7 +1,7 @@
 References
 ----------
 
-The original EME paper.
+The original EME paper.  
 **[eme]** *A Parallelizable Enciphering Mode*  
 Shai Halevi, Phillip Rogaway, 28 Jul 2003  
 https://eprint.iacr.org/2003/147.pdf
