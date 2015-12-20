@@ -4,6 +4,8 @@ EME <span style="color: red;">for</span> Go [![Build Status](https://drone.io/gi
 EME (ECB-Mix-ECB) is a wide-block encryption mode developed by Halevi
 and Rogaway in 2003 [[eme]](#references).
 
+Foo <span style="color: red;">for</span> bar
+
 EME uses multiple invocations of a block cipher to construct a new
 cipher of bigger block size (in multiples of 16 bytes, up to 2048 bytes).
 
