@@ -1,4 +1,4 @@
-EME <span style="color: red;">for</span> Go [![Build Status](https://drone.io/github.com/rfjakob/eme/status.png)](https://drone.io/github.com/rfjakob/eme/latest) [![GoDoc](https://godoc.org/github.com/rfjakob/eme?status.svg)](https://godoc.org/github.com/rfjakob/eme)
+![gocryptfs](logo.svg.png) EME <span style="color: red;">for</span> Go [![Build Status](https://drone.io/github.com/rfjakob/eme/status.png)](https://drone.io/github.com/rfjakob/eme/latest) [![GoDoc](https://godoc.org/github.com/rfjakob/eme?status.svg)](https://godoc.org/github.com/rfjakob/eme)
 ==========
 
 EME (ECB-Mix-ECB) is a wide-block encryption mode developed by Halevi
