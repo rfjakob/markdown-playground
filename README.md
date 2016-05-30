@@ -101,7 +101,7 @@ RM:    4.42
 Changelog
 ---------
 
-v0.10, 
+### v0.10, 2016-05-30
 * **Replace `spacemonkeygo/openssl` with `stupidgcm`**
  * gocryptfs now has its own thin wrapper to OpenSSL's GCM implementation
    called `stupidgcm`.
@@ -121,7 +121,7 @@ v0.10,
 * Fix a fsstress [failure](https://github.com/hanwen/go-fuse/issues/106)
   in the go-fuse library.
 
-v0.9, 2016-04-10
+**v0.9**, 2016-04-10
 * **Long file name support**
  * gocryptfs now supports file names up to 255 characters.
  * This is a forwards-compatible change. gocryptfs v0.9 can mount filesystems
@@ -134,7 +134,7 @@ v0.9, 2016-04-10
  * `-d`: Alias for `-debug`
  * `-q`: Alias for `-quiet`
 
-v0.8, 2016-01-23
+#### v0.8, 2016-01-23
 * Redirect output to syslog when running in the background
 * New command-line option:
  * `-memprofile`: Write a memory allocation debugging profile the specified
