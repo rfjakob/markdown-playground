@@ -140,14 +140,14 @@ Changelog
  * `-memprofile`: Write a memory allocation debugging profile the specified
    file
 
-v0.7.2, 2016-01-19
+##### v0.7.2, 2016-01-19
 * **Fix performance issue in small file creation**
  * This brings performance on-par with EncFS paranoia mode, with streaming writes
    significantly faster
  * The actual [fix](https://github.com/hanwen/go-fuse/commit/c4b6b7949716d13eec856baffc7b7941ae21778c)
    is in the go-fuse library. There are no code changes in gocryptfs.
 
-v0.7.1, 2016-01-09
+###### v0.7.1, 2016-01-09
 * Make the `build.bash` script compatible with Go 1.3
 * Disable fallocate on OSX (system call not availabe)
 * Introduce pre-built binaries for Fedora 23 and Debian 8
